@@ -3,7 +3,7 @@
 
 <p align="center">
   Currently working on my latest project:<br>
-  <a href="https://github.com/Rashi-Dwivedi1812/RideBuddy" target="_blank"><strong>RideBuddy</strong></a> – a smart ride-sharing web app! 🚗
+  <a href="https://github.com/Rashi-Dwivedi1812/Ride-Buddy" target="_blank"><strong>RideBuddy</strong></a> – a smart ride-sharing web app! 🚗
 </p>
 
 <h3 align="left">Connect with me:</h3>
