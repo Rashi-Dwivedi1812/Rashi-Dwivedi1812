@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashi Dwivedi</h1>
 <h3 align="center">A passionate full stack software developer from India 🚀</h3>
 
+<p align="center">
+  Currently working on my latest project:<br>
+  <a href="https://github.com/Rashi-Dwivedi1812/RideBuddy" target="_blank"><strong>RideBuddy</strong></a> – a smart ride-sharing web app! 🚗
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:rashidwivedi1812@gmail.com" target="blank">
