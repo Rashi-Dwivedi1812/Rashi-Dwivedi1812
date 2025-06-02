@@ -12,9 +12,6 @@
   <a href="https://linkedin.com/in/rashi-dwivedi-796032339" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashi-dwivedi-796032339" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/_rashidwivedi_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rashidwivedi_" height="30" width="40" />
-  </a>
   <a href="https://www.leetcode.com/rashidwivedi1812" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashidwivedi1812" height="30" width="40" />
   </a>
