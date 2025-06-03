@@ -5,7 +5,7 @@
   Currently working on my latest project:<br>
   <a href="https://github.com/Rashi-Dwivedi1812/Ride-Buddy" target="_blank"><strong>RideBuddy</strong></a> – a smart ride-sharing web app! 🚗
 </p>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:rashidwivedi1812@gmail.com" target="blank">
@@ -24,7 +24,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashidwivedi1812" height="30" width="40" />
   </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
@@ -49,6 +48,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
+<hr>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
@@ -60,3 +60,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashi-dwivedi1812&theme=dark" alt="GitHub Streak" />
 </p>
+<hr>
