@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full stack software developer from India 🚀</h3>
 
 <p align="center">
-  Currently working on my latest project:<br>
-  <a href="https://github.com/Rashi-Dwivedi1812/Ride-Buddy" target="_blank"><strong>RideBuddy</strong></a> – a smart ride-sharing web app! 🚗
+  Currently learning GoLanguage and working on GoLang project.<br>
 </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
