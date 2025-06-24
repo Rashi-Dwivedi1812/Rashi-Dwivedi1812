@@ -76,6 +76,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashi-dwivedi1812&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rashi-dwivedi1812&theme=dark" alt="GitHub Streak" />
 </p>
+
+
+
 <hr>
